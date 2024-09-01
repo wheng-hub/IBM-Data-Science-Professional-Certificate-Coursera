@@ -367,6 +367,5 @@ Uu6Using domain knowledge :
 ## Final Exam : Credit Card Fraud Detection
 
 **Description** : Build a ML solution to detection if a particular transaction is fraudulent or Genuine?
-- @todo 
 
 
