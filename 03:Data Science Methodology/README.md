@@ -29,7 +29,6 @@
   - [Deployement](#deployement)
   - [Feedback](#feedback)
 - [Final Exam : Credit Card Fraud Detection](#final-exam--credit-card-fraud-detection)
-- [References](#references)
 
 
 ## W1 : From Problem to Approach and From Requirements to Collection
@@ -370,7 +369,4 @@ Uu6Using domain knowledge :
 **Description** : Build a ML solution to detection if a particular transaction is fraudulent or Genuine?
 - @todo 
 
-## References
-
-- [Descriptive Statistics: Definition, Overview, Types, Example - Investopedia](https://www.investopedia.com/terms/d/descriptive_statistics.asp)
 
