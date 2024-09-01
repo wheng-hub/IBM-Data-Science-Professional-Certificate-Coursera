@@ -15,7 +15,6 @@
 - [**W2 : Open Source Tools**](#w2--open-source-tools)
 - [**W3 : Watson Studio**](#w3--watson-studio)
 - [**W4 : Create and Share Your Jupyter Notebook**](#w4--create-and-share-your-jupyter-notebook)
-- [References](#references)
 
 ## **W1 : Languages of Data Science**
 
@@ -909,10 +908,6 @@ Instructions: Create and Share Your Jupyter Notebook
 - Review Your Peers: Submit Your Work and Grade Your Peers
 - Reading: Reading IBM Digital Badge
 
-
-## References 
-- [Course-2 : Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)
-- [Mermaid doc](https://unpkg.com/mermaid@7.0.3/dist/www/flowchart.html#nodes-shapes)
 
 
 
