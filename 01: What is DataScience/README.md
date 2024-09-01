@@ -47,7 +47,6 @@
 		- [The structure of narrative](#the-structure-of-narrative)
 	- [Lab](#lab-2)
 	- [Quiz](#quiz-2)
-- [**References**](#references)
 
 ## **W1 : Defining Data Science and What Data Scientists Do**
 ---
