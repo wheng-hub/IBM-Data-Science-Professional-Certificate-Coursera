@@ -28,7 +28,6 @@
 - [W3 : From Deployment to Feedback](#w3--from-deployment-to-feedback)
   - [Deployement](#deployement)
   - [Feedback](#feedback)
-- [Final Exam : Credit Card Fraud Detection](#final-exam--credit-card-fraud-detection)
 
 
 ## W1 : From Problem to Approach and From Requirements to Collection
@@ -364,8 +363,5 @@ Uu6Using domain knowledge :
   - Redeploy 
     - Continue modeling, deployement, feedback, and refinement throughout the life of the intervention program 
 
-## Final Exam : Credit Card Fraud Detection
-
-**Description** : Build a ML solution to detection if a particular transaction is fraudulent or Genuine?
 
 
